@@ -9,7 +9,8 @@ For this 36 hour challenge, we propose an environment monitoring drone equipped 
 By combining drone data collection, advanced AI analytics, and a robust data dashboard, we at **EcoScan Technologies** provide advanced data and analytics to better monitor, predict, and protect vulnerable ecosystems. Our AI-powered software analyzes data from drone imagery to identify various native and invasive plant species, predict plant health, identify fire risks, and monitor soil properties.
 
 ## Results
-The plain results can be viewed in our [results/](results/) folder
+Complete results from this challenge can be viewed in our [results/](results/) folder.
+Example of Artemisia Californica identification
 ![Example of Artemisia Californica identification](results/PlantID_example_output1.png)
 
 ## Running the Code
