@@ -9,7 +9,7 @@ For this challenge, we propose an environment monitoring drone equipped with:
 By combining drone data collection, advanced AI analytics, and a robust data dashboard, we at **EcoScan Technologies** provide advanced data and analytics to better monitor, predict, and protect vulnerable ecosystems. Our AI-powered software analyzes data from drone imagery to identify various native and invasive plant species, predict plant health, identify fire risks, and monitor soil properties.
 
 ## Results
-The plain results can be viewed in our results/ folder
+The plain results can be viewed in our [results/](results/) folder
 
 ## Running the Code
 Running the code will require a couple of API Keys. Please set them up at the following:
