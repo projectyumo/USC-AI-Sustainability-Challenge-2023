@@ -8,6 +8,9 @@ For this challenge, we propose an environment monitoring drone equipped with:
 ## Project Summary
 By combining drone data collection, advanced AI analytics, and a robust data dashboard, we at **EcoScan Technologies** provide advanced data and analytics to better monitor, predict, and protect vulnerable ecosystems. Our AI-powered software analyzes data from drone imagery to identify various native and invasive plant species, predict plant health, identify fire risks, and monitor soil properties.
 
+## Results
+The plain results can be viewed in our results/ folder
+
 ## Running the Code
 Running the code will require a couple of API Keys. Please set them up at the following:
 1. https://openai.com/blog/openai-api
@@ -17,6 +20,9 @@ API keys are best defined through environmental variables but for clarity feel f
 
 For PlantID_and_Health.ipynb - Add your API key to line 10. Feel free to add any plant images in the example_images/ folder and change the path in line 11
 For RestorationPlanGenerator.ipynb - Add your API key as described here https://github.com/princeton-nlp/tree-of-thought-llm/blob/master/src/tot/models.py
+
+## Additional Notes:
+This prototype was designed with the following assumptions. A drone w/ camera is available and can be programmed to navigate around an ecosystem.  The tree-of-thoughts output assumes that substantial images have been analyzed with the PlantID_and_Health code. For future work, developing the navigation algorithms, the communication between drone and servers, and testing the results of aggregated data should satisfy a physical demo of our product. Additional work is available to optimize the usage of LLMs as LLMs are intrinsically unsustainable to the environment due their energy consumption.
 
 ## Team
 This work is performed by:
