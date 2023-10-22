@@ -1,6 +1,6 @@
 # USC-AI-Sustainability-Challenge-2023
 
-For this challenge, we propose an environment monitoring drone equipped with:
+For this 36 hour challenge, we propose an environment monitoring drone equipped with:
 1. **Plant.id** for plant identification and health assessment
 2. **ChatGPT** for foundational knowledge in response to collected plant data
 3. **Tree-of-Thoughts** to design an expanded plan for ecology restoration.
