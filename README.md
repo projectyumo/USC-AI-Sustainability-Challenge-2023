@@ -26,4 +26,4 @@ This work is performed by:
 - Tatum Verona
 
 ## Thank you
-Thank you to the AI/Sustainability Innovation Challenge Team from the Managing Directors of Entrepreneurship at Viterbi and Greif and the Challenge organizing committee.
+Thank you to the AI/Sustainability Innovation Challenge Organizing Team, the Managing Directors of Entrepreneurship at Viterbi and Greif, and the Challenge organizing committee.
