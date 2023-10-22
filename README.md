@@ -22,7 +22,12 @@ For PlantID_and_Health.ipynb - Add your API key to line 10. Feel free to add any
 For RestorationPlanGenerator.ipynb - Add your API key as described here https://github.com/princeton-nlp/tree-of-thought-llm/blob/master/src/tot/models.py
 
 ## Additional Notes:
-This prototype was designed with the following assumptions. A drone w/ camera is available and can be programmed to navigate around an ecosystem.  The tree-of-thoughts output assumes that substantial images have been analyzed with the PlantID_and_Health code. For future work, developing the navigation algorithms, the communication between drone and servers, and testing the results of aggregated data should satisfy a physical demo of our product. Additional work is available to optimize the usage of LLMs as LLMs are intrinsically unsustainable to the environment due their energy consumption.
+This prototype was designed with the following assumptions:
+
+1. A drone w/ camera is available and can be programmed to navigate around an ecosystem.
+2.  The tree-of-thoughts output assumes that substantial images have been analyzed with the PlantID_and_Health code.
+
+For future work, developing the navigation algorithms, the communication between drone and servers, and testing the results of aggregated data should satisfy a physical demo of our product. Additional work is available to optimize the usage of LLMs as LLMs are intrinsically unsustainable to the environment due their energy consumption.
 
 ## Team
 This work is performed by:
