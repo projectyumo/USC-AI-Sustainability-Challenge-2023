@@ -10,6 +10,7 @@ By combining drone data collection, advanced AI analytics, and a robust data das
 
 ## Results
 The plain results can be viewed in our [results/](results/) folder
+![Example of Artemisia Californica identification](results/PlantID_example_output1.png)
 
 ## Running the Code
 Running the code will require a couple of API Keys. Please set them up at the following:
